@@ -1,0 +1,2 @@
+- [ ] automic variable(bool).load(std::memory_order_acquire) - The meaning of load & memory order
+- [ ] std::this_thread::yield(); - What the difference between yield and sleep. (Fiber & Thread?)
