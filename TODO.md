@@ -1,3 +1,4 @@
 - [x] automic variable(bool).load(std::memory_order_acquire) - The meaning of load & memory order
 - [x] std::this_thread::yield(); - What the difference between yield and sleep. (Fiber & Thread?)
-- [ ] std::unique_lock & std::lock_guard
+- [x] std::unique_lock & std::lock_guard
+- [x] auto&& usage
